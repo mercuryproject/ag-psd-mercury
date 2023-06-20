@@ -1,5 +1,5 @@
 {
-  "name": "ag-psd",
+  "name": "ag-psd-mercury",
   "version": "15.3.0",
   "description": "Library for reading and writing PSD files",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   "sideEffects": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/Agamnentzar/ag-psd"
+    "url": "https://github.com/mercuryproject/ag-psd-mercury"
   },
   "scripts": {
     "ts": "npm run clean && tsc --watch --project tsconfig.json",
